@@ -2,7 +2,7 @@
 
 This C program provides terminal GUI for multiplying 2x2 integer matrices.
 
-![alt text](https://github.com/ZeroFourEightTwelve24/MagmaSouse/blob/master/screenshot.png?raw=true)
+![alt text](https://github.com/EQUINOX24/MagmaSouse/blob/master/screenshot.png?raw=true)
 
 # Dependencies
 
